@@ -1,0 +1,22 @@
+{
+  "name": "@mingddlv/flexible",
+  "version": "1.0.0",
+  "description": "弹性布局",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingddlv/npm.git"
+  },
+  "keywords": [
+    "flexible"
+  ],
+  "author": "mingddlv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingddlv/npm/issues"
+  },
+  "homepage": "https://github.com/mingddlv/npm#readme"
+}
